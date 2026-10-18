@@ -1,5 +1,5 @@
 {
-  "abhotupdate_cdn_url": "https://raw.githubusercontent.com/nguyentuan13012012-a11y/freefire-aim-data/refs/heads/main/xwave/",
+  "abhotupdate_cdn_url": "https://raw.githubusercontent.com/nguyentuan13012012-a11y/freefire-aim-data/refs/heads/main/xwave_1/",
   "abhotupdate_check": "cache_res;assetindexer;assembly-cssharp-patch",
   "appstore_url": "https://itunes.apple.com/app/id1480516829",
   "backup_appstore_url": "",
