@@ -1,6 +1,6 @@
 {
   "abhotupdate_cdn_url": "https://raw.githubusercontent.com/nguyentuan13012012-a11y/freefire-aim-data/refs/heads/main/xwave_1/",
-  "abhotupdate_check": "cache_res;assetindexer;assembly-cssharp-patch",
+  "abhotupdate_check": "cache_res;assetindexer",
   "appstore_url": "https://itunes.apple.com/app/id1480516829",
   "backup_appstore_url": "",
   "backup_cdn_url": "https://dl.gmc.freefiremobile.com/live/ABHotUpdates/",
@@ -8,7 +8,7 @@
   "billboard_cdn_url": "https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/vnnbgiuabA101.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/vnnbgiuabA102.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/vnnbgiuabA103.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/vnnbgiuabA104.ff_extend;https://dl.dir.freefiremobile.com/common/OB55/CSH/patchupdate/vnnbgiuabA105.ff_extend",
   "billboard_msg": "",
   "cdn_url": "https://dl.gmc.freefiremobile.com/live/ABHotUpdates/",
-  "client_ip": "116.105.248.144",
+  "client_ip": "124.654.785.1",
   "code": 0,
   "core_ip_list": [
     "0.0.0.0",
